@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		71AC59551F6144A700D3A5EE /* logo.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 71AC59541F6144A700D3A5EE /* logo.jpeg */; };
+		71B5013C1F6281F600EC469F /* TipsCalculatorModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71B5013B1F6281F600EC469F /* TipsCalculatorModel.swift */; };
 		71E8E4891F6138CA0084F47B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E8E4881F6138CA0084F47B /* AppDelegate.swift */; };
 		71E8E48B1F6138CA0084F47B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 71E8E48A1F6138CA0084F47B /* ViewController.swift */; };
 		71E8E48E1F6138CA0084F47B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 71E8E48C1F6138CA0084F47B /* Main.storyboard */; };
@@ -36,6 +37,7 @@
 
 /* Begin PBXFileReference section */
 		71AC59541F6144A700D3A5EE /* logo.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logo.jpeg; path = ../../logo.jpeg; sourceTree = "<group>"; };
+		71B5013B1F6281F600EC469F /* TipsCalculatorModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TipsCalculatorModel.swift; sourceTree = "<group>"; };
 		71E8E4851F6138CA0084F47B /* Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		71E8E4881F6138CA0084F47B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		71E8E48A1F6138CA0084F47B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -105,6 +107,7 @@
 				71E8E48C1F6138CA0084F47B /* Main.storyboard */,
 				71E8E48F1F6138CA0084F47B /* Assets.xcassets */,
 				71E8E4911F6138CA0084F47B /* LaunchScreen.storyboard */,
+				71B5013B1F6281F600EC469F /* TipsCalculatorModel.swift */,
 				71E8E4941F6138CA0084F47B /* Info.plist */,
 			);
 			path = Demo;
@@ -268,6 +271,7 @@
 			files = (
 				71E8E48B1F6138CA0084F47B /* ViewController.swift in Sources */,
 				71E8E4891F6138CA0084F47B /* AppDelegate.swift in Sources */,
+				71B5013C1F6281F600EC469F /* TipsCalculatorModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
