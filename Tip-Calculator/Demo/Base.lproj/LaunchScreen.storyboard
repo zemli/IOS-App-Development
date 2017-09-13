@@ -21,8 +21,12 @@
                         <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Hello world" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="HF6-2z-KtA">
-                                <rect key="frame" x="143" y="59" width="89" height="38"/>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="logo.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="0X7-4o-raQ">
+                                <rect key="frame" x="64" y="216" width="247" height="235"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" text="Zeming Li" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="HF6-2z-KtA">
+                                <rect key="frame" x="270" y="609" width="89" height="38"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="14"/>
@@ -37,4 +41,7 @@
             <point key="canvasLocation" x="52" y="374.66266866566718"/>
         </scene>
     </scenes>
+    <resources>
+        <image name="logo.jpeg" width="432" height="432"/>
+    </resources>
 </document>

@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleIconFile</key>
-	<string>logo.jpeg</string>
+	<string>icon.jpeg</string>
 	<key>CFBundleDisplayName</key>
-	<string>CUP Data</string>
+	<string>Tip Calculator</string>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
